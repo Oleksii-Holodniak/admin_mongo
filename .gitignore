@@ -1,0 +1,5 @@
+node_modules
+.adminjs
+.eslintrc.json
+yarn.lock
+.env
